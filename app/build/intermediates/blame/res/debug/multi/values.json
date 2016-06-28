@@ -11,14 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 92,
-                        "endColumn": 57,
-                        "endOffset": 145
-                    }
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 55,
-                        "endOffset": 202
-                    }
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -45,17 +31,17 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 169,
-                    "endColumn": 43,
-                    "endOffset": 208
+                    "endColumn": 40,
+                    "endOffset": 205
                 },
                 "from": {
                     "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 86,
-                        "endColumn": 43,
-                        "endOffset": 125
+                        "startOffset": 88,
+                        "endColumn": 40,
+                        "endOffset": 124
                     }
                 }
             },
@@ -63,101 +49,151 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 213,
-                    "endColumn": 44,
-                    "endOffset": 253
+                    "startOffset": 210,
+                    "endColumn": 43,
+                    "endOffset": 249
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 131,
-                        "endColumn": 44,
-                        "endOffset": 171
-                    }
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 258,
-                    "endColumn": 99,
-                    "endOffset": 353
+                    "startOffset": 254,
+                    "endColumn": 44,
+                    "endOffset": 294
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 176,
-                        "endColumn": 99,
-                        "endOffset": 271
-                    }
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 358,
-                    "endLine": 13,
-                    "endColumn": 12,
-                    "endOffset": 644
+                    "startOffset": 299,
+                    "endColumn": 51,
+                    "endOffset": 346
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 250,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 540
+                        "startOffset": 212,
+                        "endColumn": 51,
+                        "endOffset": 259
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 649,
-                    "endLine": 16,
-                    "endColumn": 12,
-                    "endOffset": 804
+                    "startOffset": 351,
+                    "endColumn": 99,
+                    "endOffset": 446
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 37,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 581,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 738
+                        "startOffset": 173,
+                        "endColumn": 37,
+                        "endOffset": 206
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 809,
-                    "endLine": 19,
-                    "endColumn": 12,
-                    "endOffset": 896
+                    "startOffset": 489,
+                    "endColumn": 41,
+                    "endOffset": 526
                 },
                 "from": {
-                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 744,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 833
+                        "startOffset": 130,
+                        "endColumn": 41,
+                        "endOffset": 167
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 41,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 41,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

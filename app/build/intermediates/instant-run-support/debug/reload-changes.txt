@@ -1,0 +1,2 @@
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\LoginActivity$LoginAsyncTask$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

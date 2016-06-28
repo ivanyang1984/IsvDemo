@@ -34,7 +34,7 @@ import com.iflytek.cloud.VerifierResult;
 /**
  * 声纹密码示例
  *
- * @author iFlytek &nbsp;&nbsp;&nbsp;<a href="http://http://www.xfyun.cn/">讯飞语音云</a>
+ * @author wangjianyu
  */
 public class IsvDemo extends Activity implements OnClickListener {
 	private static final String TAG = IsvDemo.class.getSimpleName();

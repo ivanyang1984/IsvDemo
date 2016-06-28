@@ -21,23 +21,17 @@
         android:name="com.iflytek.isvdemo.DemoApp"
         android:allowBackup="true"
         android:icon="@drawable/icon"
-        android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.iflytek.isvdemo.IsvDemo"
-            android:label="@string/app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
         </activity>
+        <activity android:name="com.iflytek.isvdemo.LoginActivity" />
+        <activity android:name="com.iflytek.isvdemo.UserActivity" />
+        <activity android:name="com.iflytek.isvdemo.MenuActivity" />
         <activity
-            android:name="com.iflytek.isvdemo.VidActivity"
-            android:label="@string/app_name"
-            android:launchMode="singleTop"
-            android:screenOrientation="portrait" >
-        </activity>
-        <activity
-            android:name="com.iflytek.isvdemo.LoginActivity"
-            android:label="@string/app_name"
+            android:name="com.iflytek.isvdemo.WelcomeActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" >
             <intent-filter>

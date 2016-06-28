@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_isv_demo.xml",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\layout\\activity_isv_demo.xml"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\layout\\activity_user.xml"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",

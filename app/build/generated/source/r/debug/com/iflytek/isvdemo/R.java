@@ -15,12 +15,40 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
+        public static final int advise=0x7f020000;
+        public static final int analysis=0x7f020001;
+        public static final int app=0x7f020002;
+        public static final int chat_send_button_bg=0x7f020003;
+        public static final int checkbox_bg1=0x7f020004;
+        public static final int checkbox_selected=0x7f020005;
+        public static final int checkbox_selected_press=0x7f020006;
+        public static final int checkbox_unselect=0x7f020007;
+        public static final int checkbox_unselect_press=0x7f020008;
+        public static final int icon=0x7f020009;
+        public static final int login=0x7f02000a;
+        public static final int login_bg=0x7f02000b;
+        public static final int login_button_nor=0x7f02000c;
+        public static final int login_button_press=0x7f02000d;
+        public static final int login_input=0x7f02000e;
+        public static final int login_reg_normal=0x7f02000f;
+        public static final int login_reg_pressed=0x7f020010;
+        public static final int login_regist_bg=0x7f020011;
+        public static final int person=0x7f020012;
+        public static final int query=0x7f020013;
+        public static final int search=0x7f020014;
+        public static final int welcome=0x7f020015;
     }
     public static final class id {
-        public static final int btn_confirm=0x7f070011;
+        public static final int auto_save_password=0x7f070016;
+        public static final int btn_confirm=0x7f07001a;
+        public static final int btn_login=0x7f070015;
         public static final int edt_result=0x7f070000;
-        public static final int edt_uname=0x7f070010;
+        public static final int edt_uname=0x7f070019;
+        public static final int et_name=0x7f070013;
+        public static final int et_pwd=0x7f070014;
+        public static final int hidden=0x7f070018;
+        public static final int image=0x7f070011;
+        public static final int input=0x7f070012;
         public static final int isv_cancel=0x7f07000b;
         public static final int isv_delete=0x7f070007;
         public static final int isv_getpassword=0x7f070005;
@@ -28,10 +56,12 @@ public final class R {
         public static final int isv_search=0x7f070006;
         public static final int isv_stop_record=0x7f07000a;
         public static final int isv_verify=0x7f070009;
+        public static final int loginpage=0x7f070010;
         public static final int radioGroup=0x7f070002;
         public static final int radioNumber=0x7f070004;
         public static final int radioText=0x7f070003;
         public static final int recordTime=0x7f07000f;
+        public static final int regist=0x7f070017;
         public static final int showMsg=0x7f07000d;
         public static final int showPwd=0x7f07000c;
         public static final int showRegFbk=0x7f07000e;
@@ -40,11 +70,18 @@ public final class R {
     public static final class layout {
         public static final int activity_isv_demo=0x7f030000;
         public static final int activity_login=0x7f030001;
+        public static final int activity_main=0x7f030002;
+        public static final int activity_user=0x7f030003;
     }
     public static final class string {
-        public static final int app_id=0x7f050000;
-        public static final int app_name=0x7f050001;
-        public static final int demo_introduction=0x7f050002;
+        public static final int account=0x7f050000;
+        public static final int app_id=0x7f050001;
+        public static final int app_name=0x7f050002;
+        public static final int auto_save_password=0x7f050003;
+        public static final int demo_introduction=0x7f050004;
+        public static final int login=0x7f050005;
+        public static final int password=0x7f050006;
+        public static final int register=0x7f050007;
     }
     public static final class style {
         /** 
