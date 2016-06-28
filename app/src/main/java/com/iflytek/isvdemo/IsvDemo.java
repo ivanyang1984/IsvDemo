@@ -119,9 +119,9 @@ public class IsvDemo extends Activity implements OnClickListener {
 				case R.id.radioText:
 					mPwdType = PWD_TYPE_TEXT;
 					break;
-				case R.id.radioNumber:
+				/*case R.id.radioNumber:
 					mPwdType = PWD_TYPE_NUM;
-					break;
+					break;*/
 				default:
 					break;
 				}
@@ -152,7 +152,7 @@ public class IsvDemo extends Activity implements OnClickListener {
 		// 设置RaioGroup状态为非按下状态
 		mPwdTypeGroup.setPressed(false);
 		findViewById(R.id.radioText).setClickable(clickable);
-		findViewById(R.id.radioNumber).setClickable(clickable);
+		//findViewById(R.id.radioNumber).setClickable(clickable);
 	}
 	
 	/**

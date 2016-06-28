@@ -1,7 +1,12 @@
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\MenuListActivity$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$style$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$string$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$layout$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\IsvDemo$2$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\IsvDemo$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$override.class
-CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$drawable$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$id$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\LoginActivity$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\UserActivity$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\IsvDemo$6$override.class

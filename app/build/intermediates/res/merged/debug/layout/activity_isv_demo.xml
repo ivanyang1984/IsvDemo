@@ -2,10 +2,10 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginLeft="5dp"
-    android:layout_marginRight="5dp"
     android:gravity="center_horizontal"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="@color/main"
+    android:weightSum="1">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -13,13 +13,6 @@
         android:layout_marginTop="5dp"
         android:gravity="center" >
 
-        <TextView
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center_horizontal"
-            android:text="讯飞语音声纹示例"
-            android:textSize="30sp" />
     </LinearLayout>
 
     <EditText
@@ -28,20 +21,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:gravity="top|left"
+        android:textSize="10pt"
+        android:gravity="center|left"
         android:maxLines="3"
-        android:minLines="3" />
+        android:minLines="3"
+        android:layout_weight="0.25" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:orientation="horizontal" >
+        android:orientation="horizontal">
 
         <TextView
             style="@style/textStyle"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="40dp"
             android:text="用户标识：" />
 
         <TextView
@@ -76,14 +71,7 @@
                 android:text="文本密码" >
             </RadioButton>
 
-            <RadioButton
-                android:id="@+id/radioNumber"
-                style="@style/textStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="数字密码" >
-            </RadioButton>
+
         </RadioGroup>
     </LinearLayout>
 

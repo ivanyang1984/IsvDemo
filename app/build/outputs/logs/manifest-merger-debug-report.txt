@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:2:1-40:12
 	xmlns:android
 		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -57,7 +57,7 @@ ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:18:2-77
 	android:name
 		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:18:19-74
 application
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:19:5-38:19
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:19:5-39:19
 	android:label
 		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:23:9-41
 	android:allowBackup
@@ -66,33 +66,35 @@ ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:19:5-38:19
 		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:21:9-39
 	android:theme
 		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:24:9-51
 activity#com.iflytek.isvdemo.IsvDemo
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:24:9-26:20
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:25:9-27:20
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:25:13-55
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:26:13-36
 activity#com.iflytek.isvdemo.LoginActivity
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:28:9-60
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:29:9-60
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:29:19-48
 activity#com.iflytek.isvdemo.UserActivity
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:29:9-59
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:30:9-59
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:30:19-47
 activity#com.iflytek.isvdemo.MenuListActivity
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:30:9-63
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:31:9-63
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:30:19-51
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:31:19-51
 activity#com.iflytek.isvdemo.WelcomeActivity
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:32:9-37:20
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:33:9-38:20
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:32:19-50
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:33:19-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:33:13-36:29
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from D:\Android\IsvDemo\app\src\main\AndroidManifest.xml:36:27-74

@@ -4,7 +4,7 @@ import com.iflytek.cloud.SpeechUtility;
 
 import android.app.Application;
 
-public class DemoApp extends Application{
+public class DemoApp extends Application {
 	@Override
 	public void onCreate() {
 		super.onCreate();

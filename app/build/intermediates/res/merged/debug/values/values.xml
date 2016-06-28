@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="CustomedTabWidget">#33ffffff</color>
-    <color name="add_troop_member_bg">#ffdadfe2</color>
+    <color name="add_troop_member_bg">#dadfe2</color>
     <color name="bg_default">#ffc8cdd0</color>
     <color name="black">#ff000000</color>
     <color name="blank_color">#ff999999</color>
@@ -146,10 +146,10 @@
     <string name="demo_introduction">讯飞声纹服务提供文本和数字两种类型的声纹密码。本示例中通过详尽的演示代码和注释，帮助开发者快速集成SDK。</string>
     <string name="login">登 录</string>
     <string name="menu">功能菜单</string>
-    <string name="menu_1">功能一</string>
-    <string name="menu_2">功能二</string>
-    <string name="menu_3">功能三</string>
-    <string name="menu_4">功能四</string>
+    <string name="menu_1">本地测试</string>
+    <string name="menu_2">远程测试</string>
+    <string name="menu_3">服务测试</string>
+    <string name="menu_4">连接测试</string>
     <string name="password">输入密码</string>
     <string name="register">用户注册</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">

@@ -2,10 +2,10 @@
 <resources>
  	<!-- 请替换成在语音云官网申请的appid -->
     <string name="menu">功能菜单</string>
-    <string name="menu_1">功能一</string>
-    <string name="menu_2">功能二</string>
-    <string name="menu_3">功能三</string>
-    <string name="menu_4">功能四</string>
+    <string name="menu_1">本地测试</string>
+    <string name="menu_2">远程测试</string>
+    <string name="menu_3">服务测试</string>
+    <string name="menu_4">连接测试</string>
     <string name="account">输入账号</string>
     <string name="password">输入密码</string>
     <string name="login">登 录</string>
