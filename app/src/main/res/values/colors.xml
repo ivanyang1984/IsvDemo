@@ -85,7 +85,7 @@
     <color name="thirty_transparent_black">#4d000000</color>
     <color name="thirty_trans_eee">#4ceeeeee</color>
     <color name="fifteen_trans_black">#26000000</color>
-    <color name="add_troop_member_bg">#ffdadfe2</color>
+    <color name="add_troop_member_bg">#dadfe2</color>
     <color name="list_item_press">#fff2f4f5</color>
     <color name="list_item_line">#ffc2c8cd</color>
     <color name="no_search_result_text">#ff808080</color>
