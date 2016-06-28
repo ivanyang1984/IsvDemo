@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@color/main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:background="@drawable/title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip">
+        <TextView android:layout_centerInParent="true"
+            android:textSize="20.0sp"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/menu" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@drawable/shape_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginTop="20.0dip"
+        android:layout_marginRight="10.0dip">
+
+        <Button
+            android:id="@+id/menu_btn_1"
+            android:textSize="18.0sp"
+            android:textColor="#ff000000"
+            android:background="@drawable/op_bg_selector"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:layout_marginRight="0.0dip"
+            android:text="@string/menu_1" />
+        <Button
+            android:id="@+id/menu_btn_2"
+            android:textSize="18.0sp"
+            android:textColor="#ff000000"
+            android:background="@drawable/op_bg_selector"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:layout_marginRight="0.0dip"
+            android:text="@string/menu_2" />
+        <Button
+            android:id="@+id/menu_btn_3"
+            android:textSize="18.0sp"
+            android:textColor="#ff000000"
+            android:background="@drawable/op_bg_selector"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:layout_marginRight="0.0dip"
+            android:text="@string/menu_3" />
+        <Button
+            android:id="@+id/menu_btn_4"
+            android:textSize="18.0sp"
+            android:textColor="#ff000000"
+            android:background="@drawable/op_bg_selector"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:layout_marginRight="0.0dip"
+            android:text="@string/menu_4" />
+
+    </LinearLayout>
+</LinearLayout>

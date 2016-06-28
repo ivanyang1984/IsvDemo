@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\sound.png"
+    },
+    {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\app.png"
     },
@@ -8,8 +12,16 @@
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\login.png"
     },
     {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button.9.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\bg_button.9.png"
+    },
+    {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg.xml",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\shape_bg.xml"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_regist_bg.xml",
@@ -32,12 +44,24 @@
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\chat_send_button_bg.xml"
     },
     {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\query.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg1.xml",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_bg1.xml"
+    },
+    {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\analysis.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\analysis.png"
     },
     {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query.png",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\query.png"
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\op_bg_selector.xml",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\op_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bar.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\title_bar.png"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_press.9.png",
@@ -48,32 +72,16 @@
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\welcome.png"
     },
     {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg1.xml",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_bg1.xml"
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selected.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_selected.png"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_reg_pressed.9.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\login_reg_pressed.9.png"
     },
     {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selected.png",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_selected.png"
-    },
-    {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_nor.9.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\login_button_nor.9.png"
-    },
-    {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advise.png",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\advise.png"
-    },
-    {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_unselect_press.png",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_unselect_press.png"
-    },
-    {
-        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
-        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\icon.png"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.9.png",
@@ -82,6 +90,22 @@
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
         "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advise.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\advise.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_pressed.9.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\bg_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_unselect_press.png",
+        "source": "D:\\Android\\IsvDemo\\app\\src\\main\\res\\drawable\\checkbox_unselect_press.png"
     },
     {
         "merged": "D:\\Android\\IsvDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selected_press.png",

@@ -67,7 +67,7 @@ public class LoginActivity extends Activity {
 
                     Bundle data = new Bundle();
                     data.putString("username", et_name.getText().toString());
-                    Intent intent = new Intent(LoginActivity.this, MenuActivity.class);
+                    Intent intent = new Intent(LoginActivity.this, MenuListActivity.class);
                     intent.putExtras(data);
                     startActivity(intent);
                     status.setChecked(false);

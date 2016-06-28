@@ -18,22 +18,16 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.iflytek.isvdemo.DemoApp"
         android:allowBackup="true"
-        android:icon="@drawable/icon"
-        android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.iflytek.isvdemo.IsvDemo"
-            android:launchMode="singleTop"
-            android:screenOrientation="portrait" >
+        android:icon="@drawable/sound"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity android:name="com.iflytek.isvdemo.IsvDemo" >
         </activity>
         <activity android:name="com.iflytek.isvdemo.LoginActivity" />
         <activity android:name="com.iflytek.isvdemo.UserActivity" />
-        <activity android:name="com.iflytek.isvdemo.MenuActivity" />
-        <activity
-            android:name="com.iflytek.isvdemo.WelcomeActivity"
-            android:launchMode="singleTop"
-            android:screenOrientation="portrait" >
+        <activity android:name="com.iflytek.isvdemo.MenuListActivity" />
+        <activity android:name="com.iflytek.isvdemo.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

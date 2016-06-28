@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  	<!-- 请替换成在语音云官网申请的appid -->
+    <string name="menu">功能菜单</string>
+    <string name="menu_1">功能一</string>
+    <string name="menu_2">功能二</string>
+    <string name="menu_3">功能三</string>
+    <string name="menu_4">功能四</string>
     <string name="account">输入账号</string>
     <string name="password">输入密码</string>
     <string name="login">登 录</string>
     <string name="auto_save_password">保存密码</string>
     <string name="register">用户注册</string>
     <string name="app_id">576f4c46</string>
-    <string name="app_name">IsvDemo</string>
+    <string name="app_name">VoiceEcho</string>
     <string name="demo_introduction">讯飞声纹服务提供文本和数字两种类型的声纹密码。本示例中通过详尽的演示代码和注释，帮助开发者快速集成SDK。</string>
 </resources>

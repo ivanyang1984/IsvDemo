@@ -1,2 +1,7 @@
-CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\LoginActivity$LoginAsyncTask$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$style$override.class
 CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$string$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$layout$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$drawable$override.class
+CHANGED,D:\Android\IsvDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\iflytek\isvdemo\R$id$override.class
